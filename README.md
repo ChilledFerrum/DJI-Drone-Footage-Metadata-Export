@@ -1,6 +1,6 @@
 # DJI drone footage metadata export tool
 
-> Exports the metadata recorded in DJI drone footage
+> Exports the metadata recorded in DJI drone footage using the Python Programming Language
 
 <details>
 <summary>Code Explanation</summary>
